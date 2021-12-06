@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aish-93
 - 👀 I’m interested in ...web development/front End lib
-- 🌱 I’m currently learning ...java script/ html /css/ front end lib.
+- 🌱 I’m currently learning ...javascript/ html /css/vue.js/reactjs front end lib.
 - 💞️ I’m looking to collaborate on ...anyfront end project on vue/js/css/html.
 - 📫 How to reach me ... aish2saxena@gmail.com
 
